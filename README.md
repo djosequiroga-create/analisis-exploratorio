@@ -21,7 +21,7 @@ Incluye 33 variables relacionadas con aspectos: - **Demográficos:** edad, sexo,
 -   Describir las características principales de los estudiantes.\
 -   Comparar el rendimiento en Matemáticas y Portugués.\
 -   Identificar factores asociados al éxito o fracaso escolar.\
--   **Nota:** este análisis es comparativo y descriptivo, **no predictivo**.
+
 
 ------------------------------------------------------------------------
 
@@ -161,3 +161,4 @@ Se define aprobado cuando **G3 ≥ 10**.
 
 Cortez, P. & Silva, A. (2008). *Using Data Mining to Predict Secondary School Student Performance*.\
 In A. Brito and J. Teixeira (Eds.), Proceedings of 5th Future Business Technology Conference (FUBUTEC 2008), Porto, Portugal. EUROSIS.
+
